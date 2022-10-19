@@ -1,6 +1,6 @@
 <!----------------------------------- Heading Section ------------------------------------>
 <h1 align="center">
-   <br><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFBD8CFF&width=435&lines=Hii%2C+I'm+Bhargavi_Chella😇;Full-Stack+Web+Developer...;"style="max-width: 100%;">
+   <br><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFBD8CFF&width=435&lines=Hii%2C+I'm+shivakrishna Vaddepalli 😇;Full-Stack+Web+Developer...;"style="max-width: 100%;">
 <br/>
     
 </h1>
@@ -24,12 +24,12 @@
 
 - 💻 I'm passionate about making creative websites.
   
-- 📫 How to reach me **chellabhargavi2002@gmail.com**
+- 📫 How to reach me **shivakrishnaVaddepalli001@gmail.com**
 
 - 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1D2iOxSwiAwK7awzAOMCGYANGBTIOhxke/view?usp=sharing)
 
   ### 👯 Other interests
-  I love Pencilart :art:, Books:book:, Food:green_salad: Coding:computer:.
+   Books:book:, Food:green_salad: Coding:computer:.
   
 <br>
 
@@ -106,24 +106,6 @@
 
 <h2><i>Top Repositories</i></h2>
 
-
-<p>
-    <a href="https://github.com/bhargavi35/netmeds">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhargavi35&repo=netmeds&locale=en&border_radius=0&theme=dark" alt="banu" />
-    </a>
-       <a href="https://github.com/bhargavi35/Food-App">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhargavi35&repo=Food-App&locale=en&border_radius=0&theme=dark" alt="banu"        />
-     </a>
-     <a href="https://github.com/bhargavi35/YouTube">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhargavi35&repo=YouTube&locale=en&border_radius=0&theme=dark" alt="banu"        />
-     </a>
-    <a href="https://github.com/ArjunSinghBhakuni/Mytheresa-clone-website">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArjunSinghBhakuni&repo=Mytheresa-clone-website&locale=en&border_radius=0&theme=dark" alt="banu" />
-    </a>
-    <a href="https://github.com/vishnu9651/Boat-project-unit-2">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vishnu9651&repo=Boat-project-unit-2&locale=en&border_radius=0&theme=dark" alt="banu" />
-    </a>
-</p>
 
 ---
 <br><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=BC66FF&width=435&lines=Thanks+for+Visiting+my+profile%F0%9F%A4%97"></br>
